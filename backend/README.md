@@ -20,3 +20,18 @@ node index.js
 - POST /users
 - PUT /users/:id
 - DELETE /users/:id
+
+## 👨‍💻 Author
+Built by Indu R
+Learning backend development and open source 🚀
+
+## 📚 Reference
+
+This project was built while learning backend development.
+
+🎥 Tutorial followed:  
+"Node.js REST API Crash Course"  
+Link:
+https://youtu.be/KOutPbKc9UM?si=l5jL5p7OXMy7bV0Q
+
+## Hope this will help to learn backend
